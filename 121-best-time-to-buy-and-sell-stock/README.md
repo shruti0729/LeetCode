@@ -29,3 +29,5 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 	<li><code>1 &lt;= prices.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= prices[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/a7ae901a-c534-4641-b769-c6cee22a5db4" />
+
