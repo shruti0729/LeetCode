@@ -30,3 +30,5 @@
 	<li><code>2 &lt;= n &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= height[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/a45a067f-d496-45e5-97e2-1ef5fba1014b" />
+
