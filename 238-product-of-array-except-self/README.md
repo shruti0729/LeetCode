@@ -23,3 +23,5 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong>&nbsp;Can you solve the problem in <code>O(1)</code>&nbsp;extra&nbsp;space complexity? (The output array <strong>does not</strong> count as extra space for space complexity analysis.)</p>
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/0501b0d4-c64e-4a28-b2fa-fb18de6a9edb" />
+
